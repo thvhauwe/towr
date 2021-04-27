@@ -103,7 +103,7 @@ Visualization Manager:
         Link Tree Style: Links in Alphabetic Order
       Name: Monoped
       Robot Description: /monoped_rviz_urdf_robot_description
-      TF Prefix: monoped
+      TF Prefix: 
       Update Interval: 0
       Value: false
       Visual Enabled: true
@@ -119,7 +119,7 @@ Visualization Manager:
         Link Tree Style: Links in Alphabetic Order
       Name: Biped
       Robot Description: /biped_rviz_urdf_robot_description
-      TF Prefix: biped
+      TF Prefix: 
       Update Interval: 0
       Value: false
       Visual Enabled: true
@@ -135,7 +135,7 @@ Visualization Manager:
         Link Tree Style: Links in Alphabetic Order
       Name: Hyq
       Robot Description: /hyq_rviz_urdf_robot_description
-      TF Prefix: hyq_des
+      TF Prefix: 
       Update Interval: 0
       Value: false
       Visual Enabled: true
@@ -151,7 +151,7 @@ Visualization Manager:
         Link Tree Style: Links in Alphabetic Order
       Name: ANYmal (proprietary)
       Robot Description: /anymal_rviz_urdf_robot_description
-      TF Prefix: anymal_des
+      TF Prefix: 
       Update Interval: 0
       Value: false
       Visual Enabled: true
